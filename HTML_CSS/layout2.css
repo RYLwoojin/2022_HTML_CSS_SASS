@@ -1,9 +1,37 @@
+*{
+  font-family: 'Lato', sans-serif;
+
+}
+
+
 .main-background {
   width: 100%;
   height: 500px;
-  background-image: url();
+  background-image: url(https://codingapple.com/wp-content/uploads/2019/06/shoes.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 
+}
+
+.main-background {
+  color: white;
+  text-align: center;
+}
+.main-title {
+  margin-top: 0;
+  padding-top: 150px;
+  font-size: 35px;
+}
+
+.title-text{
+  padding: 0 20px;
+}
+
+button {
+  margin-top: 50px;
+  background-color: #fff;
+  border-style: none;
+  padding: 15px 30px;
+  color: #000;
 }
