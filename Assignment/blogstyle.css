@@ -1,0 +1,29 @@
+p {
+  margin: 0;
+}
+
+.container {
+  width: 800px;
+  height: 300px;
+  float: left;
+}
+
+.nametag{
+  width: 80%;
+  height: 30%;
+  float: left;
+  margin: 0;
+}
+
+.content {
+  width: 80%;
+  height: 70%;
+  float: left;
+  overflow: hidden;
+}
+
+.image {
+  width: 240px;
+  height: 300px;
+  float: left;
+}
